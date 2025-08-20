@@ -1,1 +1,1 @@
-// This is splash screen.
+// This is splash screen..
